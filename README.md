@@ -5,9 +5,9 @@
 Aplicação com o propósito de gereciar habitos diários. Evento NWL-Setup Oferecido pela rocketseat no período de 16 a 22 de janeiro de 2023, apenas como intuido de aprendizado.
 
 <div align="center">
-  <img src="cover1.png">
-  <img src="cover2.png">
-  <img src="cover3.png">
+  <img src="./cover1.jfif">
+  <img src="./cover2.jfif">
+  <img src="./cover3.jfif">
 </div>
 
 ### Link Frontend
