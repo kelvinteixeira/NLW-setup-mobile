@@ -7,7 +7,7 @@ Aplicação com o propósito de gereciar habitos diários. Oferecido pelo rocket
 ### Link Frontend
 https://github.com/kelvinteixeira/NLW-setup-web
 
-### Link Mobile
+### Link Backend
 https://github.com/kelvinteixeira/NLW-setup-server
 
 #### <div align="right">- Projeto Finalizado 🟢 <div>
