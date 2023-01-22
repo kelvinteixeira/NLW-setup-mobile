@@ -4,6 +4,12 @@
 
 Aplicação com o propósito de gereciar habitos diários. Evento NWL-Setup Oferecido pela rocketseat no período de 16 a 22 de janeiro de 2023, apenas como intuido de aprendizado.
 
+<div align="center">
+  <img src="cover1.png">
+  <img src="cover2.png">
+  <img src="cover3.png">
+</div>
+
 ### Link Frontend
 https://github.com/kelvinteixeira/NLW-setup-web
 
