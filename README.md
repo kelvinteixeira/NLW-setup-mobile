@@ -14,12 +14,13 @@ https://github.com/kelvinteixeira/NLW-setup-server
 
 ## Tecnologias usadas:
 
-- React
-- Vite
+- ReactNative
+- Typescript
 - Tailwind
 - Radix
 - Dayjs
-- clsx
+- Clsx
+- React-native-animated
 
 #### <div align="center">Aplicação desenvolvida por mim. Gostou? tem alguma sugestão de melhoria? por favor, entre em contato e ja me adiciona. :D
 
