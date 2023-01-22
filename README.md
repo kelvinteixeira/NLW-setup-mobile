@@ -2,7 +2,7 @@
 
 ## Sobre o projeto:
 
-Aplicação com o propósito de gereciar habitos diários. Oferecido pelo rocketseat, apenas como intuido de aprendizado.
+Aplicação com o propósito de gereciar habitos diários. Evento NWL-Setup Oferecido pela rocketseat no período de 16 a 22 de janeiro de 2023, apenas como intuido de aprendizado.
 
 ### Link Frontend
 https://github.com/kelvinteixeira/NLW-setup-web
@@ -17,7 +17,7 @@ https://github.com/kelvinteixeira/NLW-setup-server
 - ReactNative
 - Typescript
 - Tailwind
-- Radix
+- Radix-Ui
 - Dayjs
 - Clsx
 - React-native-animated
